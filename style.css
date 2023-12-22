@@ -1,0 +1,25 @@
+html,
+body {
+    background-color: #c2e4c7;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+.chooseAnswerBtn {
+    font-size: 32px;
+}
+
+#result {
+    display: none;
+}
+
+#bottom-container {
+    position: absolute;
+    bottom: 2rem;
+}
+
+#playAgain {
+    display: none;
+}
